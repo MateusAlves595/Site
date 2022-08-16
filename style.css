@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    padding-top: opx;
     box-sizing: border-box;
 }
 
@@ -28,6 +29,7 @@ main{
 .foto-container{
     display: flex;
     justify-content: center;
+    padding-top: 30px;
 }
 
 .titulo{
@@ -35,6 +37,7 @@ main{
     justify-content: center;
     text-align: center;
     color: darkgoldenrod;
+    padding-top: 30px;
     
 }
 
@@ -46,24 +49,30 @@ main{
 .texto{
     color: darkgoldenrod;
     text-align: center;
+    padding-top: 30px;
 }
 
 .texto2{
     color: darkgoldenrod;
     text-align: center;
+    padding-top: 25px;
 }
 
 .texto3{
     color: darkgoldenrod;
     text-align: center;
+    padding-top: 25px;
 }
 
 .lista{
-    font-size: larger;
     color: darkgoldenrod;
+    text-align: inherit;
+    font-size: x-large;
+    padding-top: 30px;
 }
 
 .copi{
     color: darkgoldenrod;
     float: right;
+    padding-top: 30px;
 }
