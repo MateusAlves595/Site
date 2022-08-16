@@ -16,6 +16,7 @@ body{
     background-image: url(./planodefundo.jpg);
     justify-content: center;
     align-items: center;
+    
 }
 
 main{
@@ -41,6 +42,12 @@ main{
     text-align: center;
 }
 
+.texto2{
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+
 .lista{
     font-size: larger;
     color: darkgoldenrod;
@@ -48,5 +55,5 @@ main{
 
 .copi{
     color: darkgoldenrod;
-   float: right;
+    float: right;
 }
